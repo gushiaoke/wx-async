@@ -1,4 +1,4 @@
-'use strict';
+var regeneratorRuntime = require("../../lib/runtime.js");'use strict';
 
 //logs.js
 var util = require('../../utils/util.js');

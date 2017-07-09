@@ -1,6 +1,5 @@
 //index.js
 //获取应用实例
-const regeneratorRuntime = require('../../lib/runtime');
 const util = require('../../utils/util');
 
 var app = getApp()

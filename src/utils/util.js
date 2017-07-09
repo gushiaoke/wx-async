@@ -1,4 +1,4 @@
-const regeneratorRuntime = require('../lib/runtime');
+
 
 function formatTime(date) {
     var year = date.getFullYear()
